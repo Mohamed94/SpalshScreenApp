@@ -1,0 +1,9 @@
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\bin\Debug\netstandard2.0\SpalshScreenApp.deps.json
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\bin\Debug\netstandard2.0\SpalshScreenApp.dll
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\bin\Debug\netstandard2.0\SpalshScreenApp.pdb
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\obj\Debug\netstandard2.0\SpalshScreenApp.csprojAssemblyReference.cache
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\obj\Debug\netstandard2.0\SpalshScreenApp.csproj.CoreCompileInputs.cache
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\obj\Debug\netstandard2.0\SpalshScreenApp.AssemblyInfoInputs.cache
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\obj\Debug\netstandard2.0\SpalshScreenApp.AssemblyInfo.cs
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\obj\Debug\netstandard2.0\SpalshScreenApp.dll
+D:\Xamarin\SpalshScreenApp\SpalshScreenApp\SpalshScreenApp\obj\Debug\netstandard2.0\SpalshScreenApp.pdb
